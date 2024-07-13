@@ -1,0 +1,9 @@
+setup.py
+gym_myswimmer3sameradii/__init__.py
+gym_myswimmer3sameradii.egg-info/PKG-INFO
+gym_myswimmer3sameradii.egg-info/SOURCES.txt
+gym_myswimmer3sameradii.egg-info/dependency_links.txt
+gym_myswimmer3sameradii.egg-info/requires.txt
+gym_myswimmer3sameradii.egg-info/top_level.txt
+gym_myswimmer3sameradii/envs/__init__.py
+gym_myswimmer3sameradii/envs/swimmer_env.py
