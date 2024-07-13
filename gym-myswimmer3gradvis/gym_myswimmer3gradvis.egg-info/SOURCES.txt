@@ -1,0 +1,11 @@
+setup.py
+gym_myswimmer3gradvis/__init__.py
+gym_myswimmer3gradvis.egg-info/PKG-INFO
+gym_myswimmer3gradvis.egg-info/SOURCES.txt
+gym_myswimmer3gradvis.egg-info/dependency_links.txt
+gym_myswimmer3gradvis.egg-info/requires.txt
+gym_myswimmer3gradvis.egg-info/top_level.txt
+gym_myswimmer3gradvis/envs/__init__.py
+gym_myswimmer3gradvis/envs/swimmer_env.py
+gym_myswimmer3gradvis/envs/swimmer_env_k0_01.py
+gym_myswimmer3gradvis/envs/swimmer_env_k4.py
