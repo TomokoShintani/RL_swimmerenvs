@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: gym_myswimmer3diffrgradv
+Version: 0.0.15
+Requires-Dist: numpy>=1.18.0
+Requires-Dist: cloudpickle>=1.2.0
+Requires-Dist: importlib_metadata>=4.8.0; python_version < "3.10"
+Requires-Dist: gym_notices>=0.0.4
+Requires-Dist: dataclasses==0.8; python_version == "3.6"
