@@ -1,0 +1,15 @@
+setup.py
+gym_myswimmer3diffradii/__init__.py
+gym_myswimmer3diffradii.egg-info/PKG-INFO
+gym_myswimmer3diffradii.egg-info/SOURCES.txt
+gym_myswimmer3diffradii.egg-info/dependency_links.txt
+gym_myswimmer3diffradii.egg-info/requires.txt
+gym_myswimmer3diffradii.egg-info/top_level.txt
+gym_myswimmer3diffradii/envs/__init__.py
+gym_myswimmer3diffradii/envs/swimmer_env.py
+gym_myswimmer3diffradii/envs/swimmer_env_123.py
+gym_myswimmer3diffradii/envs/swimmer_env_132.py
+gym_myswimmer3diffradii/envs/swimmer_env_213.py
+gym_myswimmer3diffradii/envs/swimmer_env_231.py
+gym_myswimmer3diffradii/envs/swimmer_env_312.py
+gym_myswimmer3diffradii/envs/swimmer_env_321.py
